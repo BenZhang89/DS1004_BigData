@@ -1,0 +1,6 @@
+1,Some records (rows) has missing value, nor value is " ", e.g. in task8, some car makers are ' '.
+
+2, Some values have "," inside. E.g. int task 3, some due value is like ",103","NAS,".
+
+3, Some values have other delimiters which causes floating a number or splitting a value failed 
+
